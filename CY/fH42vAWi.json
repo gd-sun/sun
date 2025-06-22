@@ -1,5 +1,5 @@
 {
-  "spider": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+  "spider": "./moyu.php;md5;0a9c6b44a20445a9b3c2a39763ef7cf1",
   "wallpaper": "https://pic1.imgdb.cn/item/6857863f58cb8da5c86174f9.png",
   "logo": "https://pic1.imgdb.cn/item/633e4a2c16f2c2beb1495eba.jpg",
   "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
@@ -10,7 +10,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "ext": {
         "url": "https://qjappcms.cs4k.top",
         "dataKey": "Z98KXaLtO2wC1Pte",
@@ -25,7 +25,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "ext": {
         "url": "https://appcms.ll4k.xyz",
         "dataKey": "NiDGaKiVnkO3QX1Q",
@@ -68,7 +68,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "ext": {
         "url": "https://www.guahd.com",
         "dataKey": "f2A7D4B9E8C16531",
@@ -83,7 +83,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "ext": {
         "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
         "dataKey": "k9o3p2c8b7m3z0o8",
@@ -98,7 +98,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "ext": {
         "url": "https://www.xiaohys.com",
         "dataKey": "ENonBHeVBoYZhVUV",
@@ -126,7 +126,7 @@
       "name": "🫣耐看┃蓝光┃无广",
       "type": 3,
       "api": "csp_WebNK",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "searchable": 0,
       "changeable": 0,
       "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKewpvDncOpw57Cp8OnwphXXFDCoMOnw6PDqcKhbVBXwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFdcUMKgw5fDn8Ocw6zCrMKgwqR7w57DrMKhwrPCmlrCp8KlwqnDosKpwrDCr8KhwrA="
@@ -136,7 +136,7 @@
       "name": "🍉瓜子┃蓝光┃无广",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -325,7 +325,7 @@
       "name": "📺热播┃多线┃弹幕",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -338,7 +338,7 @@
       "name": "⛅️天天┃蓝光┃弹幕",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -351,7 +351,7 @@
       "name": "😎浪酷┃蓝光┃弹幕",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -364,7 +364,7 @@
       "name": "😭呜呜┃蓝光┃无广",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -375,7 +375,7 @@
       "name": "🌿雨滴┃蓝光┃无广",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "playerType": 1,
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
@@ -384,7 +384,7 @@
       "name": "🦋蝴蝶┃蓝光┃纯净",
       "type": 3,
       "api": "csp_Hudie",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
@@ -393,7 +393,7 @@
       "name": "🌟星芽┃短剧┃热推",
       "type": 3,
       "api": "csp_AppXY",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
+      "jar": "./moyuer.php;md5;fa812fdc4ed32737bee82e73790d9ca1",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
